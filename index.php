@@ -1,10 +1,10 @@
 <?php
 
-/**
- * @author lolkittens
- * @copyright 2013
- */
-
-
+if( !class_exists('DBSession')){
+    class DBSession{
+        
+        
+    }
+}
 
 ?>
